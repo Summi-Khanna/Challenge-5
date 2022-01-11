@@ -40,6 +40,7 @@ To view the analysis, navigate to the file named ```financial_planning_tools.ipy
 
 An API ke and Secret Key from [Alpaca](https://app.alpaca.markets/brokerage/new-account/overview) are both required for running this jupyter notebook locally.
 
+---
 
 ## Contributors
  
