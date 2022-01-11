@@ -11,10 +11,10 @@ For retirement planning, this analysis provides a probable estimate of retiremen
 It supports Python 3.7 and above and has been constructed in the jupyter lab notebook named ```financial_planning_tools.ipynb```
 Additionally, the following packages/libraries are used to run the analysis:
 
-- [pandas] - for analyzing data
-- [dotenv] - for loading variables from .env files
-- [alpaca SDK] - for interacting with Alpaca API for stock/bond prices
-- [MCForecastTools] - for carrying out monte carlo simulations
+- [pandas](https://pypi.org/project/pandas/) - for analyzing data
+- [dotenv](https://pypi.org/project/python-dotenv/) - for loading variables from .env files
+- [alpaca SDK](https://pypi.org/project/alpaca-trade-api/) - for interacting with Alpaca API for stock/bond prices
+- [MCForecastTools](https://pypi.org/project/mc-simulation/) - for carrying out monte carlo simulations
 
 
 ---
